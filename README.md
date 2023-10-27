@@ -1,5 +1,16 @@
 # TICTACTOE-GOLD #
 
+## Screenshots
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s4.png" width="400"></td>
+    <td><img src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s3.png" width="400"></td>
+    <td><img src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s11.png" width="400"></td>
+  </tr>
+</table>
+
+
 # Tic-Tac-Toe 10x10 Game App
 
 Welcome to the Tic-Tac-Toe 10x10 game app! This app is built using React Native and is available in two variants: one developed with React Native CLI and the other with Expo.
