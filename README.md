@@ -30,3 +30,8 @@ The React Native CLI version of this app is built for developers who prefer more
 1. Clone the repository.
 2. Install the necessary dependencies using `npm install` or `yarn install`.
 3. Run the app using the React Native CLI commands.
+
+
+
+## Link to download the App:
+https://play.google.com/apps/internaltest/4701018822399391640
