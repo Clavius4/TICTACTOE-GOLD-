@@ -125,7 +125,7 @@ function App(): JSX.Element {
           
         </Stack.Navigator>
       ) : (
-        <Logo />
+        <Logo navigation={undefined} />
       )}
     </NavigationContainer>
   );
@@ -134,5 +134,20 @@ function App(): JSX.Element {
 
 
 }
+
+const styles = StyleSheet.create({
+  sectionContainer: {
+
+  },
+
+  sectionTitle: {
+
+  },
+
+  sectionDescription: {
+    
+  }
+
+})
 
 export default App;
