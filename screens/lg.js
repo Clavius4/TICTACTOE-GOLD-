@@ -1123,4 +1123,4 @@ const saveRecordedTimeToDatabase = () => {
             }
           }
         }, [map, currentTurn, gameMode, setMap, checkWin, isTie, getAiMove, showAlert, resetGame, exitGame]);
-        
+      }
